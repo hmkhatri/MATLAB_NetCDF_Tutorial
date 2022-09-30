@@ -1,2 +1,3 @@
-# MATLAB_NetCDF_Tutorial
-Basic Matlab tutorials on working with netcdf files
+# MATLAB NetCDF Tutorial
+
+The repository containd basic Matlab tutorials on working with netcdf files.
